@@ -1,2 +1,14 @@
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    color: darkblue;
+    background-color: #f9f9f9;
+  }
+
+  h1, h2 {
+    color: darkgreen;
+  }
+  
+  </style>
 <h1>Creating a Program Which manage each and Every Function</h1>
 <label style="color: rgb(8, 255, 0);font-style: italic;font-family: revert-layer; font-size:20px;">Hello</label>
